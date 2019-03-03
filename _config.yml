@@ -13,13 +13,13 @@ name: 'Curious'
 description: 'Bold Theme For Brave People'
 # Sidebar about text
 site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
-logo: # path of site logo, e.g. "assets/images/images/logo.png"
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: # the subpath of your site, e.g. "/blog"
-production_url: https://eulacia.github.io/tos.github.io/
+production_url: https://eulacia.github.io/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
-ga_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+ga_analytics: UA-135447433-1
 
 # Contact form setings
 email: youremail@email.com
