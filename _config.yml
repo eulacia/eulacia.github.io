@@ -16,7 +16,7 @@ site_description: 'Welcome to my blog. It features topics such as fashion, archi
 logo: # path of site logo, e.g. "assets/images/images/logo.png"
 favicon: 'assets/images/favicon.ico'
 baseurl: # the subpath of your site, e.g. "/blog"
-production_url: https://forma.netlify.com/
+production_url: https://eulacia.github.io/tos.github.io/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 ga_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
