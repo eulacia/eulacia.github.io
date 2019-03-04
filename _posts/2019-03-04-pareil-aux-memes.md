@@ -4,7 +4,7 @@ title: 'Pareil aux Mêmes'
 tags: [Mirrorball]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/2019-03-04-pareil-aux-memes.jpeg
-author: daniel
+author: rve
 featured: true
 hidden: true
 ---
