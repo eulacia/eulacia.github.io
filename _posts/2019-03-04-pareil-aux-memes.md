@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'What Is Photography and What It Means To Me'
-tags: [Photography, Tips]
+title: 'Pareil aux Mêmes'
+tags: [Mirrorball]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2019/1.jpg
+featured_image: assets/images/posts/2019/2019-03-04-pareil-aux-memes.jpeg
 author: daniel
 featured: true
 hidden: true
