@@ -40,12 +40,10 @@ instagram: 'eulacia'
 
 # Navigation
 navigation:
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Contact Me
-    url: /contact/
+  - text: what it is
+    url: /what-it-is/
+  - text: say something
+    url: /say-something/
 
 # Required Plugins
 plugins_dir:
