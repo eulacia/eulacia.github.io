@@ -12,7 +12,8 @@ featured: true
 
 Although cellulose acetate or "safety film" had been introduced by [Kodak](https://en.wikipedia.org/wiki/Eastman_Kodak) in 1908, at first it found only a few special applications as an alternative to the hazardous nitrate film, which had the advantages of being considerably tougher, slightly more transparent, and cheaper. The changeover was not completed for X-ray films until 1933, and although safety film was always used for 16 mm and 8 mm home movies, nitrate film remained standard for theatrical 35 mm motion pictures until it was finally discontinued in 1951.
 
-Films remained the dominant form of photography until the early 21st century, when advances in digital photography made them largely obsolete. Although the 21st century is dominated by digital photography, film continues to be used by enthusiasts.
+{% include image-caption.html imageurl="assets/images/posts/2019/2019-03-05-untitled-surprised.jpeg" 
+title="Untitled" caption="Original Digital Painting" %}
 
 ## Black & White
 
