@@ -19,7 +19,8 @@ title="Untitled" caption="Original Digital Painting" %}
 
 All photography was originally monochrome, or black-and-white. Even after color film was readily available, black-and-white photography continued to dominate for decades, due to its lower cost and its "classic" photographic look. The tones and contrast between light and dark areas define black-and-white photography. It is important to note that monochromatic pictures are not necessarily composed of pure blacks, whites, and intermediate shades of gray, but can involve shades of one particular hue depending on the process. The cyanotype process, for example, produces an image composed of blue tones. The albumen print process, first used more than 150 years ago, produces brownish tones.
 
-{% include image-full.html imageurl="/assets/images/posts/2018/23.jpeg" title="Film Photo" caption="This full-width image with caption" %}
+{% include image-caption.html imageurl="assets/images/posts/2019/2019-03-05-untitled-surprised-3.png" 
+title="Untitled" caption="Procreate on iPad Pro with Apple Pencil" %}
 
 >“Black and white is abstract, color is not. Looking at a black and white photograph, you are already looking at a strange world.” <cite>– Joel Sternfeld</cite>
 
