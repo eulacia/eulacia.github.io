@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Untitled. Surprised.'
-tags: [The_Chinese_Room]
+tags: [ChineseRoom]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/2019-03-05-untitled-surprised.jpeg
 author: rve
