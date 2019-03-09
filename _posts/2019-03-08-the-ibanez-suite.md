@@ -3,7 +3,7 @@ layout: post
 title: 'The Ibanez Suite'
 tags: [Pyromanes]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2019/2019-03-08-ibanez-suite.jpeg
+featured_image: assets/images/posts/2019/2019-03-08-the-ibanez-suite.jpeg
 author: rve
 featured: true
 ---
