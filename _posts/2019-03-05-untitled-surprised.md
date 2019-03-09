@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'The Ibanez Suite'
-tags: [Pyromanes]
+title: 'Untitled. Surprised.'
+tags: [Chineseroom]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/2019-03-05-untitled-surprised.jpeg
 author: rve
