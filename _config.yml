@@ -27,10 +27,10 @@ contact_page_description: "Ideas, questions or comments? Just want to say hi?"
 thankyou_page_description: "Message sent. Thank you."
 
 # Contacts section in the sidebar
-sidebar_widget_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed lacus id tortor iaculis iaculis dignissim eget justo. Maecenas posuere eros nisl, ut pharetra turpis faucibus."
-sidebar_widget_email: "blogin [at] gmail.com"
-sidebar_widget_address: "123 Some Street, Some City, AA 12345"
-sidebar_widget_phone: "+123 112 23445"
+sidebar_widget_description:
+sidebar_widget_email:
+sidebar_widget_address:
+sidebar_widget_phone:
 
 
 # Social links
