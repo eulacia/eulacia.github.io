@@ -30,14 +30,7 @@ post_class: post-template
                         <h1 class="post-title">{{ page.title }}</h1>
 
                         <div class="post-meta">
-                            {% for author in site.data.authors %}
-                            {% if author[1].username == page.author %}
-                            by <span class="post-author">
-                                <a href="{{ site.baseurl }}/author/{{ page.author }}/">{{ author[1].name }}</a>
-                            </span>
-                            {% endif %}
-                            {% endfor %}
-                            on <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+                            <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
                         </div><!-- .post-meta -->
 
                         <a href="#" class="scroll-down square light">
