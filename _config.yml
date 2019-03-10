@@ -10,9 +10,9 @@
 
 # Site setings
 name: 'townofSulaco'
-description: 'Bold Theme For Brave People'
+description: 'Sudden dances, grave beauties and heart murmurs.'
 # Sidebar about text
-site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
+site_description: 'Welcome to the Town of Sulaco. Feel free to explore and leave some questions unanswered.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: # the subpath of your site, e.g. "/blog"
