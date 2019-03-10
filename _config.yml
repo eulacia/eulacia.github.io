@@ -18,7 +18,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: # the subpath of your site, e.g. "/blog"
 production_url: 'https://eulacia.github.io/'
 disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+mailchimp_url: 'https://townofsulaco.us20.list-manage.com/subscribe/post?u=81a0f7809429f75623a8b9d2c&amp;id=4d81a6b92d'
 ga_analytics: UA-135447433-1
 
 # Contact form setings
