@@ -22,9 +22,9 @@ mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab160
 ga_analytics: UA-135447433-1
 
 # Contact form setings
-email: youremail@email.com
-contact_page_description: "Forma theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+email: herve.eulacia@me.com
+contact_page_description: "Ideas, questions or comments? Just want to say hi?"
+thankyou_page_description: "Message sent. Thank you."
 
 # Contacts section in the sidebar
 sidebar_widget_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed lacus id tortor iaculis iaculis dignissim eget justo. Maecenas posuere eros nisl, ut pharetra turpis faucibus."
