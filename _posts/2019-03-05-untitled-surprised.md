@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Untitled. Surprised.'
-tags: [Chineseroom]
+tags: [Atelier]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2019/2019-03-05-untitled-surprised.jpeg
+featured_image: assets/images/posts/2019/2019-03-05-untitled-surprised-2.png
 author: rve
 featured: true
 ---
