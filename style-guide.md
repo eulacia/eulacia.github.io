@@ -12,7 +12,7 @@ This theme supports **regular image with or without caption**, **wide images wit
 
 {% include image-caption.html imageurl="/assets/images/posts/2019/5.jpg" title="Concrete roads" caption="This regular image with caption" %}
 
-{% include image-wide.html imageurl="/assets/images/posts/2019/6.jpg" title="Concrete roads" caption="This wide image with caption" %}
+{% r image-wide.html imageurl="/assets/images/posts/2019/6.jpg" title="Concrete roads" caption="This wide image with caption" %}
 
 {% include image-full.html imageurl="/assets/images/posts/2019/8.jpeg" title="Concrete roads" caption="This full-width image with caption" %}
 
